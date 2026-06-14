@@ -1,5 +1,12 @@
 # Changelog
 
+## 9.0.0-beta.30
+
+### Minor Changes
+
+- b73b728: Add RegistryClient helpers for AAO brand logo assets, including listing approved or pending logos by domain and uploading community logo assets for review.
+- a22d284: Expose `resolveTaskState()` to reconcile `TaskResult.status` with task-envelope status values in response payloads.
+
 ## 9.0.0-beta.29
 
 ### Minor Changes
